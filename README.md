@@ -2,7 +2,7 @@
 <p align="center"><em>Level up your health journey with personalized, intelligent fitness coaching powered by voice and AI.</em></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burakorkmez/codeflex-ai/refs/heads/master/public/screenshot-for-readme.png" alt="Demo App Screenshot" />
+  <img src="https://raw.githubusercontent.com/BernieTv/AI-Fitness-Assistant/refs/heads/main/public/hero-ai.png" alt="Demo App Screenshot" />
 </p>
 
 ---
